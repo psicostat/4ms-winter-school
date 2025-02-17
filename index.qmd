@@ -11,13 +11,15 @@ suppress-bibliography: true
 
 ## Slides
 
+#### Monday
+
 Dorothy Bishop - How our Brains Make it Difficult to Think Like a Scientist / Understanding how cognitive biases affect research [[pdf]](slides/bishop-2025_WinterSch.pdf){target=_blank}
 
 Daniel Lakens - Which research is valuable enough to do well? [[pdf]](slides/Lakens_4M_17-2-2025_research_worth_doing.pdf){target=_blank}
 
 Daniel Lakens - Concerns about Replicability, Theorizing, Applicability, Generalizability, and Methodology across Two Crises in Psychology [[pdf]](slides/Lakens_4M_17-2-2025_two_crises.pdf){target=_blank}
 
-
+Filippo Gambarota - Open Science Starter Pack [[pdf]](slides/open-science-starter-pack.pdf){target=_blank}
 
 ## Group Activities
 
