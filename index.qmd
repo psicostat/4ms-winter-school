@@ -51,7 +51,7 @@ Slides will be available here soon :)
 
 #### Group 2
 
-@Fried2020-oe [[pdf]](papers/Fried%202020%20-%20Theories%20and%20models%20-%20What%20they%20are%2C%20what%20they%20are%20for%2C%20and%20what%20they%20are%20about.pdf)
+@Fried2020-oe [[pdf]](papers/Fried 2020 - Theories and models - What they are, what they are for, and what they are about.pdf)
 
 - Raphael Merz
 - Ruben Lamers James
@@ -83,7 +83,7 @@ Slides will be available here soon :)
 
 #### Group 2
 
-@Del_Giudice2021-nm [[pdf]](papers/Del%20Giudice%20and%20Gangestad%202021%20-%20A%20traveler%E2%80%99s%20guide%20to%20the%20multiverse...%20s%2C%20pitfalls%2C%20and%20a%20framework%20for%20the%20evaluation%20of%20analytic%20decisions.pdf)
+@Del_Giudice2021-nm [[pdf]](papers/Del Giudice and Gangestad 2021 - A traveler’s guide to the multiverse, pitfalls, and a framework for the evaluation of analytic decisions.pdf)
 
 - Marco Badioli
 - Ettore Napoli
