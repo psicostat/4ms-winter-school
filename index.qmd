@@ -11,7 +11,7 @@ suppress-bibliography: true
 
 ## Slides
 
-#### Monday
+***Monday***
 
 Dorothy Bishop - How our Brains Make it Difficult to Think Like a Scientist / Understanding how cognitive biases affect research [[pdf]](slides/bishop-2025_WinterSch.pdf){target=_blank}
 
