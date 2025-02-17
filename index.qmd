@@ -11,7 +11,13 @@ suppress-bibliography: true
 
 ## Slides
 
-Slides will be available here soon :)
+Dorothy Bishop - How our Brains Make it Difficult to Think Like a Scientist / Understanding how cognitive biases affect research [[pdf]](slides/bishop-2025_WinterSch.pdf){target=_blank}
+
+Daniel Lakens - Which research is valuable enough to do well? [[pdf]](slides/Lakens_4M_17-2-2025_research_worth_doing.pdf){target=_blank}
+
+Daniel Lakens - Concerns about Replicability, Theorizing, Applicability, Generalizability, and Methodology across Two Crises in Psychology [[pdf]](slides/Lakens_4M_17-2-2025_two_crises.pdf){target=_blank}
+
+
 
 ## Group Activities
 
@@ -19,7 +25,7 @@ Slides will be available here soon :)
 
 #### Group 1
 
-@Elson2023-iw [[pdf]](papers/Elson%20et%20al.%202023%20-%20Psychological%20measures%20aren't%20toothbrushes.pdf)
+@Elson2023-iw [[pdf]](papers/Elson%20et%20al.%202023%20-%20Psychological%20measures%20aren't%20toothbrushes.pdf){target=_blank}
 
 - Zofia Dobrowolska 
 - Louie Lei	Wang
@@ -30,7 +36,7 @@ Slides will be available here soon :)
 
 #### Group 2
 
-@Stapleton2016-el [[pdf]](papers/Stapleton%20et%20al.%202016%20-%20Construct%20meaning%20in%20multilevel%20settings.pdf)
+@Stapleton2016-el [[pdf]](papers/Stapleton%20et%20al.%202016%20-%20Construct%20meaning%20in%20multilevel%20settings.pdf){target=_blank}
 
 - Lu Zhang
 - Yara Alnajjar
@@ -42,7 +48,7 @@ Slides will be available here soon :)
 
 #### Group 1
 
-@Ulrich2020-rk [[pdf]](papers/Ulrich%20and%20Miller%202020%20-%20Questionable%20research%20practices%20may%20have%20little%20effect%20on%20replicability.pdf)
+@Ulrich2020-rk [[pdf]](papers/Ulrich%20and%20Miller%202020%20-%20Questionable%20research%20practices%20may%20have%20little%20effect%20on%20replicability.pdf){target=_blank}
 
 - Rrita Bajraktari
 - Giulia Paludo
@@ -51,7 +57,7 @@ Slides will be available here soon :)
 
 #### Group 2
 
-@Fried2020-oe [[pdf]](papers/Fried 2020 - Theories and models - What they are, what they are for, and what they are about.pdf)
+@Fried2020-oe [[pdf]](papers/Fried 2020 - Theories and models - What they are, what they are for, and what they are about.pdf){target=_blank}
 
 - Raphael Merz
 - Ruben Lamers James
@@ -61,7 +67,7 @@ Slides will be available here soon :)
 
 ### Multi-Lab
 
-@Byers-Heinlein2020-pa [[pdf]](papers/Byers-Heinlein%20et%20al.%202020%20-%20Building%20a%20collaborative%20Psychological%20Science%20-%20Lessons%20learned%20from%20ManyBabies%201.pdf)
+@Byers-Heinlein2020-pa [[pdf]](papers/Byers-Heinlein%20et%20al.%202020%20-%20Building%20a%20collaborative%20Psychological%20Science%20-%20Lessons%20learned%20from%20ManyBabies%201.pdf){target=_blank}
 
 #### Group 1
 
@@ -74,7 +80,7 @@ Slides will be available here soon :)
 
 #### Group 1
 
-@Steegen2016-gx [[pdf]](papers/Steegen%20et%20al.%202016%20-%20Increasing%20Transparency%20Through%20a%20Multiverse%20Analysis.pdf)
+@Steegen2016-gx [[pdf]](papers/Steegen%20et%20al.%202016%20-%20Increasing%20Transparency%20Through%20a%20Multiverse%20Analysis.pdf){target=_blank}
 
 - Marco Roccato
 - Isabella Mariani Wigley
@@ -83,7 +89,7 @@ Slides will be available here soon :)
 
 #### Group 2
 
-@Del_Giudice2021-nm [[pdf]](papers/Del Giudice and Gangestad 2021 - A traveler’s guide to the multiverse, pitfalls, and a framework for the evaluation of analytic decisions.pdf)
+@Del_Giudice2021-nm [[pdf]](papers/Del Giudice and Gangestad 2021 - A traveler’s guide to the multiverse, pitfalls, and a framework for the evaluation of analytic decisions.pdf){target=_blank}
 
 - Marco Badioli
 - Ettore Napoli
