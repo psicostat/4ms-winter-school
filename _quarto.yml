@@ -8,6 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+    tools:
+      - icon: github
+        href: https://github.com/psicostat/4ms-winter-school
+        text: GitHub
 
 format:
   html:
