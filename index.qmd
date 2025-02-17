@@ -27,7 +27,7 @@ Filippo Gambarota - Open Science Starter Pack [[pdf]](slides/open-science-starte
 
 #### Group 1
 
-@Elson2023-iw [[pdf]](papers/Elson%20et%20al.%202023%20-%20Psychological%20measures%20aren't%20toothbrushes.pdf){target=_blank}
+@Elson2023-iw [[pdf]](papers/Elson%20et%20al.%202023%20-%20Psychological%20measures%20aren't%20toothbrushes.pdf){target=_blank} — In addition: Select a psychological construct (e.g., cognitive load, word recognition, intrinsic motivation), and compare how five published studies measured it; consider differences in operationalization, scoring, and standardization, and suggest the impact of this variability may have on replicability.
 
 - Zofia Dobrowolska 
 - Louie Lei	Wang
