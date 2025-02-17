@@ -1,0 +1,92 @@
+---
+title: "4ms-winter-school"
+bibliography: "https://raw.githubusercontent.com/filippogambarota/bib-database/main/references.bib"
+csl: files/apa-cv.csl
+suppress-bibliography: true
+---
+
+<center>
+{{< qrcode https://github.com/psicostat/4ms-winter-school >}}
+</center>
+
+## Slides
+
+Slides will be available here soon :)
+
+## Group Activities
+
+### Measurement
+
+#### Group 1
+
+@Elson2023-iw [[pdf]](papers/Elson%20et%20al.%202023%20-%20Psychological%20measures%20aren't%20toothbrushes.pdf)
+
+- Zofia Dobrowolska 
+- Louie Lei	Wang
+- Stefano Dalla Bona
+- Giulia Moncalieri
+- Rocío	Vizcaíno-Cuenca
+- Michela Forcella
+
+#### Group 2
+
+@Stapleton2016-el [[pdf]](papers/Stapleton%20et%20al.%202016%20-%20Construct%20meaning%20in%20multilevel%20settings.pdf)
+
+- Lu Zhang
+- Yara Alnajjar
+- Lucrezia Guiotto Nai Fovino
+- Caroline Böhm
+- Cemre	Çınar
+
+### Meta-Research
+
+#### Group 1
+
+@Ulrich2020-rk [[pdf]](papers/Ulrich%20and%20Miller%202020%20-%20Questionable%20research%20practices%20may%20have%20little%20effect%20on%20replicability.pdf)
+
+- Rrita Bajraktari
+- Giulia Paludo
+- Fabrizio Visconti
+- Francisco Miguel Soler Martínez
+
+#### Group 2
+
+@Fried2020-oe [[pdf]](papers/Fried%202020%20-%20Theories%20and%20models%20-%20What%20they%20are%2C%20what%20they%20are%20for%2C%20and%20what%20they%20are%20about.pdf)
+
+- Raphael Merz
+- Ruben Lamers James
+- Elena Rinallo
+- Andreas Voldstad
+- Benjamin Kunc
+
+### Multi-Lab
+
+@Byers-Heinlein2020-pa [[pdf]](papers/Byers-Heinlein%20et%20al.%202020%20-%20Building%20a%20collaborative%20Psychological%20Science%20-%20Lessons%20learned%20from%20ManyBabies%201.pdf)
+
+#### Group 1
+
+- Stefano Ioannucci
+- Yashiv Seetahul
+- Sana Rehmat
+- Giulia Brizzi
+
+### Multiverse
+
+#### Group 1
+
+@Steegen2016-gx [[pdf]](papers/Steegen%20et%20al.%202016%20-%20Increasing%20Transparency%20Through%20a%20Multiverse%20Analysis.pdf)
+
+- Marco Roccato
+- Isabella Mariani Wigley
+- Miłosz Kalinowski
+- Clara Alameda
+
+#### Group 2
+
+@Del_Giudice2021-nm [[pdf]](papers/Del%20Giudice%20and%20Gangestad%202021%20-%20A%20traveler%E2%80%99s%20guide%20to%20the%20multiverse...%20s%2C%20pitfalls%2C%20and%20a%20framework%20for%20the%20evaluation%20of%20analytic%20decisions.pdf)
+
+- Marco Badioli
+- Ettore Napoli
+- Marta Paź
+- Victor Auger
+- Alice Tupinier
