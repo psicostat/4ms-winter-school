@@ -6,10 +6,8 @@ website:
   title: "4ms-winter-school"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: https://winterschool4ms.dpg.unipd.it/
-        text: main WS website
+        text: WS main website
         target: _blank
     tools:
       - icon: github
