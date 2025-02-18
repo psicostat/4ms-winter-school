@@ -21,6 +21,11 @@ Daniel Lakens - Concerns about Replicability, Theorizing, Applicability, General
 
 Filippo Gambarota - Open Science Starter Pack [[pdf]](slides/open-science-starter-pack.pdf){target=_blank}
 
+***Tuesday***
+
+Daniel Lakens - The benefits of preregistration and registered reports [[pdf]](slides/Lakens-4M-18-2-2025-Preregistration.pdf){target=_blank}
+
+
 ## Group Activities
 
 ### Measurement
