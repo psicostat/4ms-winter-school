@@ -30,7 +30,7 @@ Jessica Flake - Measurement not schmeasurement [[pdf]](slides/Flake-Measurement-
 
 Jessica Flake - Measurement and the next generation of open science reform [[pdf]](slides/Flake-Next-Generation-Methodological-Reform.pdf){target=_blank}
 
-Jessica Flake - Materials for students [[zip]](slides/Flake-Materials-for-Students.zip)
+Jessica Flake - Materials for students [[zip]](slides/Flake-Materials-for-Students.zip) - Additional <a href="https://journals.sagepub.com/doi/full/10.1037/a0025704?casa_token=BoBrPoMWDLUAAAAA%3ANVr0QjH8E8pdET0XITdv_L70euQNUqSN6mBkc8UNWuiJWp6K90vdS016Z4m_iSAz7dy_WetWE-ViDQ" target=_blank>article</a> [[pdf]](papers/Gehlbach-and-Brinkworth-2011-Measure-twice.pdf){target=_blank}
 
 
 
