@@ -8,6 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: https://winterschool4ms.dpg.unipd.it/
+        text: main WS website
+        target: _blank
     tools:
       - icon: github
         href: https://github.com/psicostat/4ms-winter-school
