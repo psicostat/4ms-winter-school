@@ -2,6 +2,7 @@
 title: "4ms-winter-school"
 bibliography: "https://raw.githubusercontent.com/filippogambarota/bib-database/main/references.bib"
 csl: files/apa-cv.csl
+include-in-header: files/header.html
 suppress-bibliography: true
 ---
 

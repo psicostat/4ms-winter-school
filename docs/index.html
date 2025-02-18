@@ -67,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link rel="shortcut icon" href="files/faviconWS.png">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -149,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 (function() {
   var script = document.currentScript;
   var qrcode = script.previousElementSibling;
-  qrcode.qrcode = new QRCode(qrcode, {"colorLight":"#ffffff","width":128,"colorDark":"#000000","text":"https://github.com/psicostat/4ms-winter-school","height":128});
+  qrcode.qrcode = new QRCode(qrcode, {"colorLight":"#ffffff","height":128,"colorDark":"#000000","text":"https://github.com/psicostat/4ms-winter-school","width":128});
   script.remove();
 })();
 </script>
