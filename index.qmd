@@ -24,6 +24,8 @@ Filippo Gambarota - Open Science Starter Pack [[pdf]](slides/open-science-starte
 
 ***Tuesday***
 
+(*Interview with researcher [[video]](https://www.youtube.com/watch?v=ZaNtz76dNSI){target=_blank>}*)
+
 Daniel Lakens - The benefits of preregistration and registered reports [[pdf]](slides/Lakens-4M-18-2-2025-Preregistration.pdf){target=_blank}
 
 Jessica Flake - Measurement not schmeasurement [[pdf]](slides/Flake-Measurement-not-Schmeasurement-WS.pdf){target=_blank}
