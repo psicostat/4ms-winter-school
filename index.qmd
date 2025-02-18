@@ -25,6 +25,13 @@ Filippo Gambarota - Open Science Starter Pack [[pdf]](slides/open-science-starte
 
 Daniel Lakens - The benefits of preregistration and registered reports [[pdf]](slides/Lakens-4M-18-2-2025-Preregistration.pdf){target=_blank}
 
+Jessica Flake - Measurement not schmeasurement [[pdf]](slides/Flake-Measurement-not-Schmeasurement-WS.pdf){target=_blank}
+
+Jessica Flake - Measurement and the next generation of open science reform [[pdf]](slides/Flake-Next-Generation-Methodological-Reform.pdf){target=_blank}
+
+Jessica Flake - Materials for students [[zip]](slides/Flake-Materials-for-Students.zip)
+
+
 
 ## Group Activities
 
