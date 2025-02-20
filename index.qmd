@@ -42,6 +42,8 @@ Lisa DeBruine - Coding Club: Creating an R Package [[link]](https://psyteachr.gi
 
 ***Thursday***
 
+Ulrich Schimmack - Theoretical Factor Analysis [[pdf]](slides/Schimmack-Padua-Winter-School-25.pdf){target=_blank}
+
 Giulia Calignano - Multilab and Multiverse: from preprocessing to data analysis [[pdf]](slides/4Ms_Multiverse_calignano.pdf){target=_blank}
 
 Giulia Calignano - additional materials: OSF repo [[link]](https://osf.io/bhuxf/){target=_blank}
@@ -50,6 +52,10 @@ Livio Finos - PIMA: Post-selection Inference in Multiverse
 Analysis [[pdf]](slides/Finos-PIMA-ws.pdf){target=_blank}
 
 Livio Finos - additional materials: PIMA dataset [[html]](slides/pima_dataset.html){target=_blank} / GitHub repo [[link]](https://github.com/livioivil/pima){target=_blank}
+
+***Friday***
+
+Filippo Gambarota - A multi-lab study: Power analysis and data management [[pdf]](slides/multilab-grassi-power.pdf){target=_blank}
 
 ## Group Activities
 
