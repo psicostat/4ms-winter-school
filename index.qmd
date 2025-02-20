@@ -46,6 +46,8 @@ Lisa DeBruine - Coding Club: Creating an R Package [[link]](https://psyteachr.gi
 
 Giulia Calignano - Multilab and Multiverse: from preprocessing to data analysis / OSF repo [[link]](https://osf.io/bhuxf/){target=_blank}
 
+Livio Finos - PIMA / GitHub repo [[link]](https://github.com/livioivil/pima){target=_blank}
+
 ## Group Activities
 
 ### Measurement
