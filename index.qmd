@@ -40,6 +40,12 @@ Lisa DeBruine - Big Team Setup [[link]](https://debruine.github.io/big-team-setu
 
 Lisa DeBruine - Coding Club: Creating an R Package [[link]](https://psyteachr.github.io/intro-r-pkgs/){target=_blank} - see also [demopkg](https://psyteachr.github.io/demopkg/){target=_blank}
 
+(...)
+
+***Thursday***
+
+Giulia Calignano - Multilab and Multiverse: from preprocessing to data analysis / OSF repo [[link]](https://osf.io/bhuxf/){target=_blank}
+
 ## Group Activities
 
 ### Measurement
