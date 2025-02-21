@@ -55,7 +55,10 @@ Livio Finos - additional materials: PIMA dataset [[html]](slides/pima_dataset.ht
 
 ***Friday***
 
+Massimo Grassi - Do musicians have better short-term memory than nonmusicians? A multi-lab study [[pdf]](slides/Grassi-MusiciansMultilab-WS.pdf){target=_blank}
+
 Filippo Gambarota - A multi-lab study: Power analysis and data management [[pdf]](slides/multilab-grassi-power.pdf){target=_blank}
+
 
 ## Group Activities
 
