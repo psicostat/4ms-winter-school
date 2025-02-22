@@ -36,6 +36,8 @@ Jessica Flake - Materials for students [[zip]](slides/Flake-Materials-for-Studen
 
 ***Wednesday***
 
+Ettore Ambrosini - From Noise to Insight: Improving neuroimaging measurement for credible and reproducible neuroscience [[pdf]](slides/4M_Ettore_ToShare_WS.pdf){target=_blank} - see also the [recording](https://mediaspace.unipd.it/media/4M_EttoreAmbrosini/1_q6tva30n){target=_blank}
+
 Lisa DeBruine - Big Team Setup [[link]](https://debruine.github.io/big-team-setup/){target=_blank}
 
 Lisa DeBruine - Coding Club: Creating an R Package [[link]](https://psyteachr.github.io/intro-r-pkgs/){target=_blank} - see also [demopkg](https://psyteachr.github.io/demopkg/){target=_blank}
