@@ -61,7 +61,7 @@ Massimo Grassi - Do musicians have better short-term memory than nonmusicians? A
 
 Filippo Gambarota - A multi-lab study: Power analysis and data management [[pdf]](slides/multilab-grassi-power.pdf){target=_blank}
 
-***Follow up***
+***follow-up***
 
 Ettore Ambrosini - 2^nd^ part / "extra" lesson on From Noise to Insight: Improving neuroimaging measurement for credible and reproducible neuroscience (2025-02-26) [[recording]](https://mediaspace.unipd.it/media/4M_EttoreAmbrosini_Round2/1_cc4hw7qr){target=_blank}
 
